@@ -1,0 +1,8 @@
+This is the modified ClockworkMod Recovery 2.5.1.8, with a 4 line change to 
+the minui/graphics.c so it would work properly on the Motorola Defy/Charm.
+Besides those changes, I've all added the power off function & background
+pic "carebear" from ClockworkMod 3.x recovery.  No other changes were made.
+
+If you have any quesitons, please feel free to drop me an email. :-)
+
+Steve
